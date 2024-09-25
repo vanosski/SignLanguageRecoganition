@@ -1,4 +1,3 @@
-Here’s an expanded version of your README file that provides more details about the project, including setup, usage, and additional insights into the algorithms used:
 
 ---
 
